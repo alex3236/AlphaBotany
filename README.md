@@ -10,6 +10,6 @@ A Botania addon, add back some missing blocks from ExtraBotany and BotaniaNeedSI
 
 ## License
 
-The project is published **with no license**. All rights reserved.
-
 Copyright (C) 2023 Alex3236 <awa@alex3236.top>
+
+The project is published **with no license**. All rights reserved. Please note that this means you cannot use, distribute or redistribute without authorization.
