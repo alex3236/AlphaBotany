@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "key": {
+    "1": {
+      "item": "extrabotany:orichalcos"
+    },
+    "0": {
+      "item": "extrabotany:manabuffer"
+    }
+  },
+  "result": {
+    "item": "alphabotany:quantum_manabuffer"
+  }
+}

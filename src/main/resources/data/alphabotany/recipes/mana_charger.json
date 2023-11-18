@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "1 1",
+    "   "
+  ],
+  "key": {
+    "0": {
+      "item": "botania:livingrock_slab"
+    },
+    "1": {
+      "item": "botania:livingwood_twig"
+    }
+  },
+  "result": {
+    "item": "alphabotany:mana_charger"
+  }
+}

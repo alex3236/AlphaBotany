@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "top.alex3236.alphabotany.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "alphabotany.refmap.json",
+  "mixins": [
+    "CraftingMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}

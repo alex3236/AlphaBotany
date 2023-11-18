@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "alphabotany:block/mana_generator"
+    }
+  }
+}

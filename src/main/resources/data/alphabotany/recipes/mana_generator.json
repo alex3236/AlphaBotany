@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "234",
+    "565"
+  ],
+  "key": {
+    "0": {
+      "item": "botania:mana_diamond"
+    },
+    "1": {
+      "item": "extrabotany:heromedal"
+    },
+    "2": {
+      "item": "extrabotany:orichalcos"
+    },
+    "3": {
+      "item": "minecraft:lapis_block"
+    },
+    "4": {
+      "item": "botania:terrasteel_ingot"
+    },
+    "5": {
+      "item": "botania:livingrock"
+    },
+    "6": {
+      "item": "extrabotany:manabuffer"
+    }
+  },
+  "result": {
+    "item": "alphabotany:mana_generator"
+  }
+}
